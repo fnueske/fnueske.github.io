@@ -1,0 +1,100 @@
+<Publications>
+  
+  <Publication>
+    <Title>Error bounds for kernel-based approximations of the Koopman operator</Title>
+    <Authors>F. Philipp; M. Schaller; K. Worthmann; S. Peitz and F. Nüske</Authors>
+    <Journal>Applied and Computational Harmonic Analysis</Journal>
+    <Year>2024</Year>
+    <Link>https://doi.org/10.1016/j.acha.2024.101657</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Efficient approximation of molecular kinetics using random Fourier features</Title>
+    <Authors>F. Nüske and S. Klus</Authors>
+    <Journal>The Journal of Chemical Physics</Journal>
+    <Year>2023</Year>
+    <Link>https://doi.org/10.1063/5.0162619</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Finite-data error bounds for Koopman-based prediction and control</Title>
+    <Authors>F. Nüske; S. Peitz; F. Philipp; M. Schaller and K. Worthmann</Authors>
+    <Journal>Journal of Nonlinear Science</Journal>
+    <Year>2023</Year>
+    <Link>https://doi.org/10.1007/s00332-022-09862-1</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Slicing and Dicing: Optimal Coarse-Grained Representation to Preserve Molecular Kinetics</Title>
+    <Authors>W. Yang; C. Templeton; D. Rosenberger, A. Bittracher; F. Nüske; F. Noé and C. Clementi</Authors>
+    <Journal>ACS Central Science</Journal>
+    <Year>2023</Year>
+    <Link>https://doi.org/10.1021/acscentsci.2c01200</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Towards reliable data-based optimal and predictive control using extended DMD</Title>
+    <Authors>M. Schaller; K. Worthmann; F. Philipp; S. Peitz and F. Nüske</Authors>
+    <Journal>IFAC-PapersOnLine</Journal>
+    <Year>2023</Year>
+    <Link>pdf/23_Schaller_gEDMD.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Koopman analysis of quantum systems</Title>
+    <Authors>S. Klus; F. Nüske, and S. Peitz</Authors>
+    <Journal>IFAC-PapersOnLine</Journal>
+    <Year>2023</Year>
+    <Link>https://doi.org/10.1088/1751-8121/ac7d22</Link>
+  </Publication>
+
+  <Publication>
+    <Title>tgEDMD: Approximation of the Kolmogorov Operator in Tensor Train Format</Title>
+    <Authors>M. Lücke and F. Nüske</Authors>
+    <Journal>Journal of Nonlinear Science</Journal>
+    <Year>2022</Year>
+    <Link>https://doi.org/10.1007/s00332-022-09801-0</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Symmetric and antisymmetric kernels for machine learning problems in quantum physics and chemistry</Title>
+    <Authors>S. Klus; P. Gelß; F. Nüske and F. Noé</Authors>
+    <Journal>Machine Learning: Science and Technology</Journal>
+    <Year>2021</Year>
+    <Link>https://doi.org/10.1088/2632-2153/ac14ad</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Spectral properties of effective dynamics from conditional expectations</Title>
+    <Authors>F. Nüske; P. Koltai; L. Boninsegna and C. Clementi</Authors>
+    <Journal>Entropy</Journal>
+    <Year>2021</Year>
+    <Link>https://doi.org/10.3390/e23020134</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Tensor-based computation of metastable and coherent sets</Title>
+    <Authors>F. Nüske; P. Gelß; S. Klus and C. Clementi</Authors>
+    <Journal>Physica D: Nonlinear Phenomena</Journal>
+    <Year>2021</Year>
+    <Link>pdf/21_Nueske_tEDMD.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Kernel-Based Approximation of the Koopman Generator and Schr{\"o}dinger Operator</Title>
+    <Authors>S. Klus; F. Nüske; and B. Hamzi</Authors>
+    <Journal>Entropy</Journal>
+    <Year>2020</Year>
+    <Link>https://doi.org/10.3390/e22070722</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Data-driven approximation of the Koopman generator: Model reduction, system identification, and control</Title>
+    <Authors>S. Klus; F. Nüske; S. Peitz; J.-H. Niemann; C. Clementi and C. Schütte</Authors>
+    <Journal>Physica D: Nonlinear Phenomena</Journal>
+    <Year>2020</Year>
+    <Link>pdf/20_Klus_gEDMD.pdf</Link>
+  </Publication>
+
+
+</Publications>

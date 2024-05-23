@@ -71,7 +71,12 @@
 						&nbsp;
 						<a href="https://www.mpi-magdeburg.mpg.de/2316/en">
 						<img src="images/MPI_Waves.pdf" alt="MPI DCTS" style="max-width:50px;max-height:38px;"></img>
-						</a></h3>
+						</a>
+						&nbsp;
+						<a href="https://www.mpi-magdeburg.mpg.de/dmp">
+						<img src="images/22_dmp_bm_positiv_CMYK.png" alt="DMP Group" style="max-width:50px;max-height:38px;"></img>
+						</a>
+						</h3>
 
 						<ul class="icons">
 							<li><a href="https://scholar.google.com/citations?user=RqvAsE0AAAAJ&hl=en" class="ai ai-google-scholar"><span class="label"></span></a></li>
@@ -149,7 +154,7 @@
 				<div class="container">
 					<header>
 						<h2><span class="icon fa-file-pdf-o">&nbsp;&nbsp;Recent Publications</h2></br>
-						<em><span>&#8224;</span> = corresponding author(s). Full list at <a href="https://scholar.google.com/citations?hl=en&user=vgHQd9cAAAAJ&view_op=list_works&sortby=pubdate" target="_new">Google Scholar</a>.</em></br>
+						<em>Full list at <a href="https://scholar.google.com/citations?user=RqvAsE0AAAAJ&hl=en" target="_new">Google Scholar</a>.</em></br>
 					</header>
 					<dl>
 						<div id="publicationlist"></div>
@@ -158,7 +163,7 @@
 							var Connect = new XMLHttpRequest();
 							// Define which file to open and
 							// send the request.
-							Connect.open("GET", "publications.xml");
+							Connect.open("GET", "publications_nueske.xml");
 							Connect.setRequestHeader("Content-Type", "text/xml");
 							Connect.send();
 							Connect.onload = function() {
@@ -350,40 +355,6 @@
 								<a href="pdf/24_Philipp_KernelEDMD.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span> PhysD 2024</a>
 							</td>
 						</tr>
-						<!--
-						<tr>
-							<td class="intro_cell_l">
-								<li><strong>Dr Danny Perez, T-1, Los Alamos, USA</strong></li>
-							</td>
-							<td class="intro_cell_r">
-								<i>Massively parallel sampling of metastable systems<br>e.g.</i>
-								<a href="https://www.nature.com/articles/s41524-020-00463-8.pdf"><span class="icon fa-file-pdf-o" alttext="pdf"></span> NPJ Comp. Mat 2020</a>
-								<a href="https://github.com/tomswinburne/tammber"><span class="icon fa-github" alttext="code"></span> TAMMBER</a>
-							</td>
-						</tr>
-						<tr>
-							<td class="intro_cell_l">
-								<li><strong>Prof James Kermode, Univ. Warwick, UK</strong></li>
-							</td>
-							<td class="intro_cell_r">
-								<i>Hybrid DFT/empirical methods<br>e.g.</i>
-								<a href="pdf/Swinburne_Kermode_PRB_2017.pdf" target ="_new"><span class="icon fa-file-pdf-o" alttext="pdf"></span> PRB 2017</a>
-								<a href="https://arxiv.org/pdf/2111.11262.pdf" target ="_new"><span class="icon fa-file-pdf-o" alttext="pdf"></span> arXiv 2021/2</a>
-								<a href="https://github.com/marseille-matmol/LML-retrain" target ="_new"><span class="icon fa-github" alttext="code"></span> LML-retrain</a></li>
-							</td>
-						</tr>
-
-						<tr>
-							<td class="intro_cell_l">
-								<li><strong>Prof Jörg Neugebauer, Max Planck für Eisenforschung, DE</strong></li>
-							</td>
-							<td class="intro_cell_r">
-								<i>Mean field models for anharmonic lattice vibrations</i><br>
-								<a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.100101"><span class="icon fa-file-pdf-o" alttext="pdf"></span> PRB RC 2020</a>
-								<a href="https://github.com/tomswinburne/blasa"><span class="icon fa-github" alttext="code"></span> BLaSa</a>
-							</td>
-						</tr>
-						-->
 					</table>
 				</div>
 			</section>
@@ -510,26 +481,21 @@
 						<h2><span class="icon fa-tv">&nbsp;&nbsp;Some Presentations </h2>
 					</header>
 					<dl>
-						<dt><li>Kink limited motion of line defects: multiscale simulation and analysis</li></dt>
-						<dd><em>Applied analysis seminar, Imperial College London, February 2019 (Invited)</em></br>
-						<a href="pdf/Swinburne_FK_line.pdf">Slides &nbsp;&nbsp;<span class="icon fa-file-pdf-o"></span></a></dd>
+						<dt><li>Modeling Molecular Kinetics with Koopman Operators and Kernel-based Learning</li></dt>
+						<dd><em>IMSI Workshop Data Sciences for Mesoscale and Macroscale Materials Models, May 2024 (Invited)</em></br>
+						<a href="Talks/24_Talk_IMSI.pdf">Slides &nbsp;&nbsp;<span class="icon fa-file-pdf-o"></span></a></dd>
 						</br>
-						<dt><li>Kink limited Orowan strengthening and the brittle to ductile transition of bcc metals</li></dt>
-						<dd><em>Oxford MFFP Meeting, September 2018 (Invited)</em></br>
-						<a href="pdf/Swinburne_Dudarev_BDT_presentation.pdf">Slides &nbsp;&nbsp;<span class="icon fa-file-pdf-o"></span></a></dd>
+						<dt><li>Kernel Methods for Koopman-based Modeling in Molecular Simulation</li></dt>
+						<dd><em>Chalmers AI4Science Seminar, April 2024 (Invited)</em></br>
+						<a href="Talks/24_Talk_Chalmers.pdf">Slides &nbsp;&nbsp;<span class="icon fa-file-pdf-o"></span></a>
+						<a href="https://www.youtube.com/watch?v=7pU4JZOjeVA" target="_new">Video &nbsp;&nbsp;<span class="fa fa-video-camera"></span></a></dd>
+						</dd></br>
+						<dt><li>Kernel Methods for Koopman-based Modeling</li></dt>
+						<dd><em>GAMM Annual Meeting, March 2024 (MS Talk)</em></br>
+						<a href="Talks/24_Talk_GAMM.pdf">Slides &nbsp;&nbsp;<span class="icon fa-file-pdf-o"></span></a></dd>
 						</br>
-						<dt><li>Uncertainty-driven construction of Markov models from accelerated molecular dynamics</li></dt>
-						<dd><em>Advances in Computational Statistical Physics, CIRM, France, September 2018 (Invited)</em></br>
-						<a href="pdf/TAMMBER_CIRM.pdf">Slides &nbsp;&nbsp;<span class="icon fa-file-pdf-o"></span></a></dd>
-						</br>
-						<dt><li>Fast, vacancy-free climb of dislocation loops in bcc metals </li></dt>
-						<dd><em>NUMAT conference, Montpellier, France, 2016</em></br>
-						<a href="pdf/SELF_CLIMB_20M_PDF.pdf">Slides &nbsp;&nbsp;<span class="icon fa-file-pdf-o"></span></a></dd>
-						</br>
-						<dt><li>Multiscale analysis of nonlinear dislocation models</li></dt>
-						<dd><em>MMM conference, Berkeley, USA, 2014</em></br>
-						<a href="pdf/Homog_final_2.pdf">Slides &nbsp;&nbsp;<span class="icon fa-file-pdf-o"></span></a></dd>
 					</div>
+
 				</section>
 				<section id="contact">
 					<div class="container">
