@@ -2309,7 +2309,8 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #FFFFFF;
-				background-image: url("../../images/web_copy.png");
+				background-image: url("../../images/Header.pdf");
+				background-size: cover;
 			}
 
 			#main > section.two {
