@@ -43,8 +43,8 @@
   <Publication>
     <Title>Koopman analysis of quantum systems</Title>
     <Authors>S. Klus; F. Nüske, and S. Peitz</Authors>
-    <Journal>IFAC-PapersOnLine</Journal>
-    <Year>2023</Year>
+    <Journal>Journal of Physics A: Mathematical and Theoretical</Journal>
+    <Year>2022</Year>
     <Link>https://doi.org/10.1088/1751-8121/ac7d22</Link>
   </Publication>
 
@@ -134,6 +134,46 @@
     <Journal>Journal of Nonlinear Science</Journal>
     <Year>2018</Year>
     <Link>pdf/18_Klus_etal_Review.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Markov state models from short non-equilibrium simulations—Analysis and correction of estimation bias</Title>
+    <Authors>F. Nüske; H. Wu; J.-H. Prinz; C. Wehmeyer; C. Clementi and F. Noé</Authors>
+    <Journal>The Journal of Chemical Physics</Journal>
+    <Year>2017</Year>
+    <Link>pdf/17_Nueske_etal_MSM.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Variational Koopman models: Slow collective variables and molecular kinetics from short off-equilibrium simulations</Title>
+    <Authors>H. Wu; F. Nüske; F. Paul; S. Klus; P. Koltai and F. Noé</Authors>
+    <Journal>The Journal of Chemical Physics</Journal>
+    <Year>2017</Year>
+    <Link>pdf/17_Wu_etal_Koopman.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Variational tensor approach for approximating the rare-event kinetics of macromolecular systems</Title>
+    <Authors>F. Nüske; R. Schneider; F. Vitalini and F. Noé</Authors>
+    <Journal>The Journal of Chemical Physics</Journal>
+    <Year>2016</Year>
+    <Link>pdf/16_NueskeEtAl_Tensors.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Variational approach to molecular kinetics</Title>
+    <Authors>F. Nüske; B. G. Keller; G. Pérez-Hernández; A.S.J.S. Mey and F. Noé</Authors>
+    <Journal>Journal of Chemical Theory and Computation</Journal>
+    <Year>2014</Year>
+    <Link>pdf/14_Nueske_etal_VariationalApproach.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>A variational approach to modeling slow processes in stochastic dynamical systems</Title>
+    <Authors>F. Noé and F. Nüske</Authors>
+    <Journal>SIAM Multiscale Modeling and Simulation</Journal>
+    <Year>2013</Year>
+    <Link>pdf/13_Noe_VAC.pdf</Link>
   </Publication>
 
 </Publications>
