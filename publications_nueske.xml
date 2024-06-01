@@ -96,5 +96,44 @@
     <Link>pdf/20_Klus_gEDMD.pdf</Link>
   </Publication>
 
+  <Publication>
+    <Title>Coarse-graining molecular systems by spectral matching</Title>
+    <Authors>F. Nüske; L. Boninsegna and C. Clementi</Authors>
+    <Journal>The Journal of Chemical Physics</Journal>
+    <Year>2019</Year>
+    <Link>pdf/19_Nueske_SpectralMatching.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Quantitative comparison of adaptive sampling methods for protein dynamics</Title>
+    <Authors>E. Hruska; J. R. Abella; F. Nüske; L. E. Kavraki and C. Clementi</Authors>
+    <Journal>The Journal of Chemical Physics</Journal>
+    <Year>2018</Year>
+    <Link>pdf/18_Hruska_AdaptiveSampling.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Rapid calculation of molecular kinetics using compressed sensing</Title>
+    <Authors>F. Litzinger; L. Boninsegna; H. Wu; F. Nüske; R. Patel; R. Baraniuk; F. Noé and C. Clementi</Authors>
+    <Journal>Journal of Chemical Theory and Computation</Journal>
+    <Year>2018</Year>
+    <Link>pdf/18_Litzinger_oASIS.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Sparse learning of stochastic dynamical equations</Title>
+    <Authors>L. Boninsegna; F. Nüske and C. Clementi</Authors>
+    <Journal>The Journal of Chemical Physics</Journal>
+    <Year>2018</Year>
+    <Link>pdf/18_Boninsegna_SINDy.pdf</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Data-driven model reduction and transfer operator approximation</Title>
+    <Authors>S. Klus; F. Nüske; P. Koltai; H. Wu; I. Kevrekidis; C. Sch{\"u}tte and F. Noé</Authors>
+    <Journal>Journal of Nonlinear Science</Journal>
+    <Year>2018</Year>
+    <Link>pdf/18_Klus_etal_Review.pdf</Link>
+  </Publication>
 
 </Publications>
