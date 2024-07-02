@@ -32,6 +32,7 @@
 
 						<ul>
 							<li><a href="#news" id="news-link"><span class="icon fa-bullhorn">News</span></a></li>
+							<li><a href="#research_projects" id="research-link"><span class="icon fa-file-pdf-o">Research Topics</span></a></li>
 							<li><a href="#papers" id="papers-link"><span class="icon fa-file-pdf-o">Recent Publications</span></a></li>
 							<!--<li><a href="#research" id="intro-link"><span class="icon fa-search">Research</span></a></li>-->
 							<li><a href="#team" id="team-link"><span class="icon fa-users">Team / Collaborators</span></a></li>
@@ -147,6 +148,52 @@
 							document.getElementById('newslist').innerHTML = text;
 						}
 					</script>
+				</div>
+			</section>
+
+			<!-- Position -->
+			<section id="research_projects" class="two">
+				<div class="container">
+					<header>
+						<h2><span class="icon fa-file-pdf-o">&nbsp;&nbsp;Research Topics</h2>
+					</header>
+					<table style="max-width:100%">
+						<tr>
+							<td class="intro_cell_l">
+								<img src="images/TT_Network.pdf" alt="TT-Network" style="max-width:300px;max-height:300px;" alp></img>
+							</td>
+							<td class="intro_cell_l">
+								<strong>Koopman Methods for Molecular Simulation</strong>
+								Molecular simulations lead to huge data sets requiring automated methods to extract equilibrium and
+								kinetic properties. Highlights of our research in this domain include a <a href="pdf/13_Noe_VAC.pdf">variational approach</a>, <a href="pdf/21_Nueske_tEDMD.pdf">tensor methods</a>, 
+								<a href="pdf/23_Nueske_Klus_RFF.pdf">randomized kernel methods</a>.
+							</td>
+						</tr>
+
+						<tr>
+							<td class="intro_cell_l">
+								<img src="images/Fip35_Estimation_Errors.pdf" alt="TT-Network" style="max-width:300px;max-height:300px;" alp></img>
+							</td>
+							<td class="intro_cell_l">
+								<strong>Error Theory for Koopman Modeling</strong>
+								Determination of provable error bounds for Koopman models remains
+								a key challenge for data-based dynamical systems research. Some of our recent results cover <a href="pdf/23_Nueske_FiniteData.pdf"> stochastic systems with ergodicity
+									</a> and <a href="pdf/24_Philipp_KernelEDMD.pdf"> kernel methods</a>. Improved results for general ergodic systems were described <a href="https://arxiv.org/pdf/2402.02494"> here</a>.
+							</td>
+						</tr>
+
+						<tr>
+							<td class="intro_cell_l">
+								<img src="images/1d_greedysearch_CV.pdf" alt="Greedy Search" style="max-width:300px;max-height:300px;" alp></img>
+							</td>
+							<td class="intro_cell_l">
+								<strong>Data-driven Coarse Graining</strong>
+								Learning reduced models that can be simulated more efficiently is an essential step towards scaling up
+								molecular simulations. Our results include a <a href="pdf/18_Boninsegna_SINDy.pdf">sparse identification method</a>,
+								 <a href="pdf/19_Nueske_SpectralMatching.pdf"> spectral learning</a>, and <a href="pdf/21_Nüske_SpectralProperties.pdf"> error bounds</a>.
+							</td>
+						</tr>
+					</table>
 				</div>
 			</section>
 			
