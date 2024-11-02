@@ -1,5 +1,15 @@
 <News>
 <Item>
+  <Date>10/12</Date>
+  <Header>New Preprint on Koopman-based Stochastic Control</Header>
+  <Body>
+  Using the Koopman generator to solve stochastic optimal control
+  problems for meta-stable dynamical systems:
+  </Body>
+  <Link>https://arxiv.org/abs/2410.09452</Link>
+</Item>
+
+<Item>
   <Date>09/24</Date>
   <Header>New Preprint on Data-driven Coarse Graining</Header>
   <Body>
