@@ -1,6 +1,14 @@
 <Publications>
   
   <Publication>
+    <Title>Equivariance and partial observations in Koopman operator theory for partial differential equations</Title>
+    <Authors>S. Peitz, H. Harder, F. Nüske, F. M. Philipp, M. Schaller and K. Worthmann</Authors>
+    <Journal>Journal of Computational Dynamics</Journal>
+    <Year>2024</Year>
+    <Link>https://doi.org/10.3934/jcd.2024035</Link>
+  </Publication>
+
+  <Publication>
     <Title>Error bounds for kernel-based approximations of the Koopman operator</Title>
     <Authors>F. Philipp; M. Schaller; K. Worthmann; S. Peitz and F. Nüske</Authors>
     <Journal>Applied and Computational Harmonic Analysis</Journal>
