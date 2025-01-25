@@ -1,6 +1,33 @@
 <News>
 <Item>
-  <Date>10/12</Date>
+  <Date>01/25</Date>
+  <Header>New Preprint on Tensor-based Methods</Header>
+  <Body>
+  Combining dimensionality reduction and tensor-based dynamic mode decomposition to model collective behaviour in molecular systems:
+  </Body>
+  <Link>https://chemrxiv.org/engage/chemrxiv/article-details/67881f6e6dde43c908ba616d</Link>
+</Item>
+
+<Item>
+  <Date>01/25</Date>
+  <Header>Article Published</Header>
+  <Body>
+  Proceedings Paper on invariance of the Gaussian kernel under the Koopman operator for linear SDEs:
+  </Body>
+  <Link>https://doi.org/10.1002/pamm.202400127</Link>
+</Item>
+
+<Item>
+  <Date>11/24</Date>
+  <Header>New Preprint on Koopman and Generative Modeling</Header>
+  <Body>
+  Combining generative models and generator EDMD to learn kinetic properties across temperatures:
+  </Body>
+  <Link>https://arxiv.org/abs/2411.10075</Link>
+</Item>
+
+<Item>
+  <Date>10/24</Date>
   <Header>New Preprint on Koopman-based Stochastic Control</Header>
   <Body>
   Using the Koopman generator to solve stochastic optimal control

@@ -1,10 +1,18 @@
 <Publications>
+
+  <Publication>
+    <Title>Invariance of Gaussian RKHSs under Koopman operators of stochastic differential equations with constant matrix coefficients</Title>
+    <Authors>F. M. Philipp, M. Schaller, K. Worthmann, S. Peitz, and F. Nüske</Authors>
+    <Journal>PAMM</Journal>
+    <Year>2025</Year>
+    <Link>https://doi.org/10.1002/pamm.202400127</Link>
+  </Publication>
   
   <Publication>
     <Title>Equivariance and partial observations in Koopman operator theory for partial differential equations</Title>
     <Authors>S. Peitz, H. Harder, F. Nüske, F. M. Philipp, M. Schaller and K. Worthmann</Authors>
     <Journal>Journal of Computational Dynamics</Journal>
-    <Year>2024</Year>
+    <Year>2025</Year>
     <Link>https://doi.org/10.3934/jcd.2024035</Link>
   </Publication>
 
