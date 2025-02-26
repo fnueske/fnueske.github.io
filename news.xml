@@ -1,5 +1,14 @@
 <News>
 <Item>
+  <Date>02/25</Date>
+  <Header>Article Published</Header>
+  <Body>
+  Combining generative learning and kinetic models to extrapolate dynamics across temperatures.
+  </Body>
+  <Link>https://doi.org/10.1021/acs.jctc.4c01557</Link>
+</Item>
+
+<Item>
   <Date>01/25</Date>
   <Header>New Preprint on Tensor-based Methods</Header>
   <Body>

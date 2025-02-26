@@ -1,6 +1,14 @@
 <Publications>
 
   <Publication>
+    <Title>Thermodynamic Interpolation: A Generative Approach to Molecular Thermodynamics and Kinetics</Title>
+    <Authors>S. Moqvist, W. Chen, M. Schreiner, F. Nüske, and S. Olsson</Authors>
+    <Journal>Journal of Chemical Theory and Computation</Journal>
+    <Year>2025</Year>
+    <Link>https://doi.org/10.1021/acs.jctc.4c01557</Link>
+  </Publication>
+
+  <Publication>
     <Title>Invariance of Gaussian RKHSs under Koopman operators of stochastic differential equations with constant matrix coefficients</Title>
     <Authors>F. M. Philipp, M. Schaller, K. Worthmann, S. Peitz, and F. Nüske</Authors>
     <Journal>PAMM</Journal>
