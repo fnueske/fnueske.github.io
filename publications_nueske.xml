@@ -1,6 +1,14 @@
 <Publications>
 
   <Publication>
+    <Title>Koopman-based Control for Stochastic Systems: Application to Enhanced Sampling</Title>
+    <Authors>L. Guo, J. Heiland, and F. Nüske</Authors>
+    <Journal>IFAC-PapersOnLine</Journal>
+    <Year>2025</Year>
+    <Link>https://doi.org/10.1016/j.ifacol.2025.03.049</Link>
+  </Publication>
+
+  <Publication>
     <Title>Thermodynamic Interpolation: A Generative Approach to Molecular Thermodynamics and Kinetics</Title>
     <Authors>S. Moqvist, W. Chen, M. Schreiner, F. Nüske, and S. Olsson</Authors>
     <Journal>Journal of Chemical Theory and Computation</Journal>

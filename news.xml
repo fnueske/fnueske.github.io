@@ -1,4 +1,14 @@
 <News>
+
+<Item>
+  <Date>04/25</Date>
+  <Header>Article Published</Header>
+  <Body>
+  Using Koopman-based control to enforce barrier crossings in stochastic systems.
+  </Body>
+  <Link>https://doi.org/10.1016/j.ifacol.2025.03.049</Link>
+</Item>
+
 <Item>
   <Date>02/25</Date>
   <Header>Article Published</Header>
