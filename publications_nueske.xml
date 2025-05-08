@@ -1,6 +1,14 @@
 <Publications>
 
   <Publication>
+    <Title>AMUSET-TICA: A Tensor-Based Approach for Identifying Slow Collective Variables in Biomolecular Dynamics</Title>
+    <Authors>S. Cao, F. Nüske, B. Liu, M. B. Soley, and X. Huang</Authors>
+    <Journal>Journal of Chemical Theory and Computation</Journal>
+    <Year>2025</Year>
+    <Link>https://doi.org/10.1021/acs.jctc.5c00076</Link>
+  </Publication>
+
+  <Publication>
     <Title>Koopman-based Control for Stochastic Systems: Application to Enhanced Sampling</Title>
     <Authors>L. Guo, J. Heiland, and F. Nüske</Authors>
     <Journal>IFAC-PapersOnLine</Journal>
