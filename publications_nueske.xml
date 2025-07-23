@@ -1,6 +1,30 @@
 <Publications>
 
   <Publication>
+    <Title>Kinetically Consistent Coarse Graining Using Kernel-Based Extended Dynamic Mode Decomposition</Title>
+    <Authors>V. Nateghi and F. Nüske</Authors>
+    <Journal>Journal of Chemical Theory and Computation</Journal>
+    <Year>2025</Year>
+    <Link>https://doi.org/10.1021/acs.jctc.5c00479</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Error Analysis of Kernel EDMD for Prediction and Control in the Koopman Framework</Title>
+    <Authors>F. M. Philipp, M. Schaller, K. Worthmann, S. Peitz, and F. Nüske </Authors>
+    <Journal>Journal of Nonlinear Science</Journal>
+    <Year>2025</Year>
+    <Link>https://doi.org/10.1007/s00332-025-10182-3</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Funnel Control for Langevin Dynamics</Title>
+    <Authors>T. Berger and F. Nüske</Authors>
+    <Journal>Automatica</Journal>
+    <Year>2025</Year>
+    <Link>https://doi.org/10.1016/j.automatica.2025.112448</Link>
+  </Publication>
+
+  <Publication>
     <Title>AMUSET-TICA: A Tensor-Based Approach for Identifying Slow Collective Variables in Biomolecular Dynamics</Title>
     <Authors>S. Cao, F. Nüske, B. Liu, M. B. Soley, and X. Huang</Authors>
     <Journal>Journal of Chemical Theory and Computation</Journal>

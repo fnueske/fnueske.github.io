@@ -1,6 +1,24 @@
 <News>
 
 <Item>
+  <Date>07/25</Date>
+  <Header>Article Published</Header>
+  <Body>
+  Kinetically consistent coarse grained models for molecular systems.
+  </Body>
+  <Link>https://doi.org/10.1021/acs.jctc.5c00479</Link>
+</Item>
+
+<Item>
+<Date>06/25</Date>
+  <Header>Article Published</Header>
+  <Body>
+  Funnel controller for Langevin-type dynamics.
+  </Body>
+  <Link>https://doi.org/10.1016/j.automatica.2025.112448</Link>
+</Item>
+
+<Item>
   <Date>04/25</Date>
   <Header>Article Published</Header>
   <Body>
