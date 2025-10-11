@@ -1,6 +1,42 @@
 <News>
 
 <Item>
+  <Date>08/25</Date>
+  <Header>Poster Presentation</Header>
+  <Body>
+  Luis presented a poster the Psi-K conference at EPFL.
+  </Body>
+  <Link>https://www.psik2025.net</Link>
+</Item>
+
+<Item>
+  <Date>07/25</Date>
+  <Header>Conference Talk</Header>
+  <Body>
+  Feliks presented at the TUM Workshop on Linear Operators for AI.
+  </Body>
+  <Link>Talks/25_AIKoopman_TUM.pdf</Link>
+</Item>
+
+<Item>
+  <Date>07/25</Date>
+  <Header>Conference Talk</Header>
+  <Body>
+  Feliks presented at the CECAM Workshop on Biomolecular Dynamics in the Age of Machine Learning at UW Madison.
+  </Body>
+  <Link>Talks/25_CECAM_UWM.pdf</Link>
+</Item>
+
+<Item>
+  <Date>07/25</Date>
+  <Header>Conference Talk</Header>
+  <Body>
+  Lei presented at 16th Viennese Conference on Optimal Control and Dynamic Games
+  </Body>
+  <Link>https://vc2025.conf.tuwien.ac.at</Link>
+</Item>
+
+<Item>
   <Date>07/25</Date>
   <Header>Article Published</Header>
   <Body>
@@ -16,6 +52,15 @@
   Funnel controller for Langevin-type dynamics.
   </Body>
   <Link>https://doi.org/10.1016/j.automatica.2025.112448</Link>
+</Item>
+
+<Item>
+  <Date>06/25</Date>
+  <Header>Conference Talk</Header>
+  <Body>
+  Feliks presented at the ICMS Workshop Dimensionality reduction techniques for molecular dynamics at University of Edinburgh.
+  </Body>
+  <Link>Talks/25_ICMS_UE.pdf</Link>
 </Item>
 
 <Item>
@@ -46,12 +91,30 @@
 </Item>
 
 <Item>
+  <Date>02/25</Date>
+  <Header>Conference Talk</Header>
+  <Body>
+  Lei presented at the Mathmod Conference on Mathematical Modeling.
+  </Body>
+  <Link>https://www.mathmod.at</Link>
+</Item>
+
+<Item>
   <Date>01/25</Date>
   <Header>New Preprint on Tensor-based Methods</Header>
   <Body>
   Combining dimensionality reduction and tensor-based dynamic mode decomposition to model collective behaviour in molecular systems:
   </Body>
   <Link>https://chemrxiv.org/engage/chemrxiv/article-details/67881f6e6dde43c908ba616d</Link>
+</Item>
+
+<Item>
+  <Date>01/25</Date>
+  <Header>Poster Presentation</Header>
+  <Body>
+  Vahid presented a poster at the MOLSIM flagship school.
+  </Body>
+  <Link>https://www.cecam.org/workshop-details/molsim-2025-1335</Link>
 </Item>
 
 <Item>
