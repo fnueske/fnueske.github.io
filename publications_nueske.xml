@@ -1,4 +1,28 @@
 <Publications>
+  
+  <Publication>
+    <Title>Accurate and robust analysis of molecular kinetics with random features</Title>
+    <Authors>H. Sprink, Y. Zhu, A. S. J. S. Mey, F. Nüske</Authors>
+    <Journal>The Journal of Chemical Physics</Journal>
+    <Year>2026</Year>
+    <Link>https://doi.org/10.1063/5.0317585</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Data-Driven Characterization and Acceleration of Metastable Dynamics Using Koopman Operators</Title>
+    <Authors>J. Luzzatto, F. Nüske, N. G. Hadjiconstantinou, D. Perez</Authors>
+    <Journal>Journal of Chemical Theory and Computation</Journal>
+    <Year>2026</Year>
+    <Link>https://doi.org/10.1021/acs.jctc.6c00068</Link>
+  </Publication>
+
+  <Publication>
+    <Title>Group-convolutional extended dynamic mode decomposition</Title>
+    <Authors>H. Harder, F. Nüske, F. M. Philipp, M. Schaller, K. Worthmann and S. Peitz</Authors>
+    <Journal>Physica D: Nonlinear Phenomena</Journal>
+    <Link>https://doi.org/10.1016/j.physd.2025.134725</Link>
+    <Year>2025</Year>
+  </Publication>
 
   <Publication>
     <Title>Kinetically Consistent Coarse Graining Using Kernel-Based Extended Dynamic Mode Decomposition</Title>
