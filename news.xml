@@ -1,6 +1,16 @@
 <News>
 
 <Item>
+<Date>04/26</Date>
+  <Header>New Preprint on Quantum-Classical Methods</Header>
+  <Body>
+  Numerical approximation of the Koopman-von-Neumann Operator and applications.
+  </Body>
+  <Link>https://doi.org/10.48550/arXiv.2604.08414</Link>
+</Item>
+
+
+<Item>
   <Date>03/26</Date>
   <Header>Webinar Talk</Header>
   <Body>
