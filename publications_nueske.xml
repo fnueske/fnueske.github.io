@@ -1,4 +1,12 @@
 <Publications>
+
+  <Publication>
+    <Title>Consistent projection of Langevin dynamics: Preserving thermodynamics and kinetics in coarse-grained models</Title>
+    <Authors>V. Nateghi, L. Neureither, S. Moqvist, C. Hartmann, S. Olsson, F. Nüske</Authors>
+    <Journal>Physical Review E</Journal>
+    <Year>2026</Year>
+    <Link>https://link.aps.org/doi/10.1103/wckl-dz9d</Link>
+  </Publication>
   
   <Publication>
     <Title>Accurate and robust analysis of molecular kinetics with random features</Title>

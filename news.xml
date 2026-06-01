@@ -1,6 +1,15 @@
 <News>
 
 <Item>
+<Date>05/26</Date>
+  <Header>New Paper on Coarse-Graining Langevin Dynamics</Header>
+  <Body>
+  Our paper on kinetically consistent coarse-graining of Langevin dynamics has been published:
+  </Body>
+  <Link>https://link.aps.org/doi/10.1103/wckl-dz9d</Link>
+</Item>
+
+<Item>
 <Date>04/26</Date>
   <Header>New Preprint on Quantum-Classical Methods</Header>
   <Body>
